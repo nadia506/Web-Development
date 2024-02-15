@@ -1,0 +1,12 @@
+---
+:id: 133532372
+:submitters:
+- :name: Nadia Kim
+  :email: bkim94@jhu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-09-14 00:38:10.371266000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-09-13 17:38:10.371266000 Z
+:status: processed
+:score: 19.75
